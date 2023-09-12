@@ -94,6 +94,7 @@ body {
     text-transform: capitalize;
     margin-top: 7rem;
     margin-bottom: 1rem;
+    color: var(--very-dark-desaturated-blue);
 }
 
 .container__span {
@@ -123,6 +124,7 @@ body {
     font-size: 2rem;
     font-weight: var(--weight-bold);
     line-height: 3rem;
+    color: var(--very-dark-desaturated-blue);
 }
 
 .container__paragraph {
